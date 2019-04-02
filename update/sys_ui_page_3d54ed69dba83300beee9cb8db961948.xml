@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[var a = "Client script";]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_snc_abc_myuipage.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name>myuipage</name>
+        <processing_script><![CDATA[var a = "Processing script";]]></processing_script>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>shasank</sys_created_by>
+        <sys_created_on>2019-04-01 10:28:42</sys_created_on>
+        <sys_id>3d54ed69dba83300beee9cb8db961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>myuipage</sys_name>
+        <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
+        <sys_update_name>sys_ui_page_3d54ed69dba83300beee9cb8db961948</sys_update_name>
+        <sys_updated_by>shasank</sys_updated_by>
+        <sys_updated_on>2019-04-01 10:28:42</sys_updated_on>
+    </sys_ui_page>
+</record_update>

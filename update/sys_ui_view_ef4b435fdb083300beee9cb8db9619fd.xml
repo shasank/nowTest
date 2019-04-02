@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>view1</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>shasank</sys_created_by>
+        <sys_created_on>2019-03-13 07:55:48</sys_created_on>
+        <sys_id>ef4b435fdb083300beee9cb8db9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view1</sys_name>
+        <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
+        <sys_update_name>sys_ui_view_ef4b435fdb083300beee9cb8db9619fd</sys_update_name>
+        <sys_updated_by>shasank</sys_updated_by>
+        <sys_updated_on>2019-03-13 07:55:48</sys_updated_on>
+        <title>view1</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

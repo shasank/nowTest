@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>4</order>
+        <size>2</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">5ced8244db543300beee9cb8db9619a9</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>shasank</sys_created_by>
+        <sys_created_on>2019-03-15 11:22:53</sys_created_on>
+        <sys_id>6ced4644db543300beee9cb8db961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4</sys_name>
+        <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
+        <sys_update_name>sp_column_6ced4644db543300beee9cb8db961920</sys_update_name>
+        <sys_updated_by>shasank</sys_updated_by>
+        <sys_updated_on>2019-03-15 11:22:53</sys_updated_on>
+    </sp_column>
+</record_update>
