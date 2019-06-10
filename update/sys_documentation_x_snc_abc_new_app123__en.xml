@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Abc New App123" language="en" table="x_snc_abc_new_app123">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Abc New App123</label>
+            <language>en</language>
+            <name>x_snc_abc_new_app123</name>
+            <plural>Abc New App123s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shasank</sys_created_by>
+            <sys_created_on>2019-06-06 18:32:58</sys_created_on>
+            <sys_id>a14c0bb6dbb9fb40f12f94d9db96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Abc New App123</sys_name>
+            <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_abc_new_app123__en</sys_update_name>
+            <sys_updated_by>shasank</sys_updated_by>
+            <sys_updated_on>2019-06-06 18:32:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

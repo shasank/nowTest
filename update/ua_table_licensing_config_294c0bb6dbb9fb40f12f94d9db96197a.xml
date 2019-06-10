@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_abc_new_app123</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>shasank</sys_created_by>
+        <sys_created_on>2019-06-06 18:32:58</sys_created_on>
+        <sys_id>294c0bb6dbb9fb40f12f94d9db96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_abc_new_app123</sys_name>
+        <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
+        <sys_update_name>ua_table_licensing_config_294c0bb6dbb9fb40f12f94d9db96197a</sys_update_name>
+        <sys_updated_by>shasank</sys_updated_by>
+        <sys_updated_on>2019-06-06 18:32:58</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

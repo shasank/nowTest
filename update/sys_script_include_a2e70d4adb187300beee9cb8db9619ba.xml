@@ -3,23 +3,33 @@
         <access>package_private</access>
         <active>true</active>
         <api_name>x_snc_abc.s2</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description/>
         <name>s2</name>
-        <script><![CDATA[GlideAggregate.prototype();
-Math.abs(000);
+        <script><![CDATA[var s2 = Class.create();
+s2.prototype = {
+    initialize: function() {
+		
+		s5()
+    },
+	// comment
+
+    type: 's2'
+};
+
 ]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>shasank</sys_created_by>
         <sys_created_on>2019-03-21 11:25:03</sys_created_on>
         <sys_id>a2e70d4adb187300beee9cb8db9619ba</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>s2</sys_name>
         <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
         <sys_policy/>
         <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
         <sys_update_name>sys_script_include_a2e70d4adb187300beee9cb8db9619ba</sys_update_name>
-        <sys_updated_by>shasank</sys_updated_by>
-        <sys_updated_on>2019-04-01 09:11:46</sys_updated_on>
+        <sys_updated_by>ameya.naik@snc</sys_updated_by>
+        <sys_updated_on>2019-06-04 13:14:24</sys_updated_on>
     </sys_script_include>
 </record_update>

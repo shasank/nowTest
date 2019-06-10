@@ -7,33 +7,33 @@
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
-        <create_access_controls>true</create_access_controls>
+        <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>mytable</label>
+        <label>Abc New App123</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_snc_abc_mytable</name>
+        <name>x_snc_abc_new_app123</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Software License" name="ast_license_base">3c5d91ffdbb22300d746fa131f96198d</super_class>
+        <super_class/>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>shasank</sys_created_by>
-        <sys_created_on>2019-03-14 14:41:37</sys_created_on>
-        <sys_id>a3a1b57bdb4c3300beee9cb8db961963</sys_id>
+        <sys_created_on>2019-06-06 18:32:57</sys_created_on>
+        <sys_id>994ccb72dbb9fb40f12f94d9db9619c5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>mytable</sys_name>
+        <sys_name>Abc New App123</sys_name>
         <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
         <sys_policy/>
         <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
-        <sys_update_name>sys_db_object_a3a1b57bdb4c3300beee9cb8db961963</sys_update_name>
+        <sys_update_name>sys_db_object_994ccb72dbb9fb40f12f94d9db9619c5</sys_update_name>
         <sys_updated_by>shasank</sys_updated_by>
-        <sys_updated_on>2019-03-14 14:41:37</sys_updated_on>
+        <sys_updated_on>2019-06-06 18:32:57</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_snc_abc.mytable_user" name="x_snc_abc.mytable_user">fdc1397bdb4c3300beee9cb8db9619c7</user_role>
+        <user_role/>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

@@ -2,32 +2,23 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>x_snc_abc.sj1</api_name>
+        <api_name>x_snc_abc.New App123</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>sj1</name>
-        <script><![CDATA[import { SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS } from "constants";
-
-GlideAggregate.prototype();
-
-Math.abs(123);
-hello;
-history;
-
-//some change
-SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS;]]></script>
+        <name>New App123</name>
+        <script/>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>shasank</sys_created_by>
-        <sys_created_on>2019-03-21 07:06:36</sys_created_on>
-        <sys_id>24cc4c42db947300beee9cb8db961912</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>sj1</sys_name>
+        <sys_created_on>2019-06-06 18:13:31</sys_created_on>
+        <sys_id>f4d78fb6db79fb40f12f94d9db96190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New App123</sys_name>
         <sys_package display_value="abc" source="x_snc_abc">48936f51db436300beee9cb8db961906</sys_package>
         <sys_policy/>
         <sys_scope display_value="abc">48936f51db436300beee9cb8db961906</sys_scope>
-        <sys_update_name>sys_script_include_24cc4c42db947300beee9cb8db961912</sys_update_name>
+        <sys_update_name>sys_script_include_f4d78fb6db79fb40f12f94d9db96190c</sys_update_name>
         <sys_updated_by>shasank</sys_updated_by>
-        <sys_updated_on>2019-06-06 11:44:51</sys_updated_on>
+        <sys_updated_on>2019-06-06 18:13:31</sys_updated_on>
     </sys_script_include>
 </record_update>
